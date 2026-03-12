@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![306bobby-android's GitHub stats](https://github-readme-stats.vercel.app/api?username=306bobby-android&theme=react&count_private=true&show_icons=true)](https://github.com/306bobby-android)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=306bobby-android&theme=dark)
 <!--
 **306bobby-android/306bobby-android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
